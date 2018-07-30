@@ -1,5 +1,5 @@
 	<footer>
 		<div class="wrapp">
-			<p>https://www.efpemusac.org/</p>
+			<p>Ramik. Derechos reservados 2018.</p>
 		</div>
 	</footer>

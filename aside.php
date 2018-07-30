@@ -1,12 +1,12 @@
 			<aside>
 				<div class="widget">
-					<h3>Carreras</h3>
+					<h3>Categorías</h3>
 					<ul>
-						<li><a href="#">Profesorado en Informatica</a></li>
-						<li><a href="#">Profesorado en Matematica y Fisica</a></li>
-						<li><a href="#">Profesorado en Quimica</a></li>
-						<li><a href="#">Profesorado en Economico Contable</a></li>
-						<li><a href="#">Profesorado en Lengua y Literatura</a></li>
+						<li><a href="#">Laptop's y Escritorio</a></li>
+						<li><a href="#">Monitores</a></li>
+						<li><a href="#">Impresoras</a></li>
+						<li><a href="#">Suministros y Accesorios</a></li>
+						<li><a href="#">Energía y Respaldo</a></li>
 					</ul>
 				</div>
 			</aside>
