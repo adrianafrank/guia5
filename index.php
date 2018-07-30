@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Inicio</title>
+	<title>Ofertas</title>
 	<link rel="stylesheet" href="estilos.css">
 	<link rel="stylesheet" type="text/css" href="adap.css">
 </head>

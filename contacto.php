@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Nosotros</title>
+	<title>Contacto</title>
 	<link rel="stylesheet" href="estilos.css">
 	<link rel="stylesheet" type="text/css" href="adap.css">
 </head>
@@ -15,18 +15,13 @@
 			</div>
  
 			<div class="articulo">
-				<article>
+				<article>					
 					<div class="post">
-						<h3>Visión</h3>
-						<h5>Ser catalogados el mejor centro de servicios tecnológicos de Guatemala</h5>
-					</div>
-					
-					<div class="post">
-						<h3>Misión</h3>
-						<h5>Ofrecer, satisfacer y entender los gustos de los guatemaltecos para compartir nuestra pasión por la tecnología</h5>
+						<h3>Ubicaciones en Departamentos</h3>
+						<h5>Nos encontramos en los departamentos marcados de color rojo.</h5>
 					</div>
 					<div class="post" align="center">
-						<img src="img/logotipo.png" alt="" width="80%">
+						<img src="img/ubicaciones.jpg" alt="" width="80%">
 					</div>
 				</article>
 			</div>

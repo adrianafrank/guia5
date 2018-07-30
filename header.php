@@ -7,7 +7,7 @@
 				<ul>
 					<li><a href="index.php">Ofertas</a></li>
 					<li><a href="nosotros.php">Nosotros</a></li>
-					<li><a href="contacto.html">Contacto</a></li>
+					<li><a href="contacto.php">Contacto</a></li>
 				</ul>
 			</nav>
 		</div>
