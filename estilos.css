@@ -156,10 +156,15 @@ footer p {
 
 .nombre-producto a:hover{
 	font-weight: bold;
-	text-decoration: underline;
+	/*text-decoration: underline;*/
+}
+
+.principal .nombre-producto{
+	height: 40px;
 }
 
 .principal .descripcion-producto{
 	font-size: 14px;
 	margin-top: 5px;
+	height: 80px;
 }
